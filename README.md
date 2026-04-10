@@ -1,6 +1,8 @@
-<div style="border: 3px solid #00FF00; padding: 10px; display: inline-block; color: #00FF00; font-weight: bold;">
-  Luis Gustavo de Medeiros Mota
-</div>
+<p align="center">
+  <div style="border: 3px solid #00FF00; padding: 15px; display: inline-block; color: #00FF00; font-size: 24px; font-weight: bold;">
+    Luis Gustavo Mota
+  </div>
+</p>
 
 # Olá mundo, eu sou o Luis!
 
