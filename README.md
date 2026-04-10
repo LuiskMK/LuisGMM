@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Luis%20GMM&fontSize=50&fontColor=ffffff)
+<div style="border: 3px solid #00FF00; padding: 10px; display: inline-block; color: #00FF00; font-weight: bold;">
+  Luis Gustavo de Medeiros Mota
+</div>
 
 # Olá mundo, eu sou o Luis!
 
