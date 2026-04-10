@@ -1,9 +1,3 @@
-<p align="center">
-  <div style="border: 3px solid #00FF00; padding: 15px; display: inline-block; color: #00FF00; font-size: 24px; font-weight: bold;">
-    Luis Gustavo Mota
-  </div>
-</p>
-
 # Olá mundo, eu sou o Luis!
 
 🔹Suporte Técnico | Estudante de TI  
